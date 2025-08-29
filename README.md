@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**RahathTanveer/RahathTanveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 💫 About Me:
 <br>- 🔭 I’m currently working on Data Structures using Python.<br>- 🌱 I’m currently learning Web Development<br>- 👯 I’m looking to collaborate on MERN Stack<br>- 🤔 I’m looking for help with Angular<br>- 💬 Ask me about DSA<br>- 📫 How to reach me: rahathtanveer9@gmail.com<br>
 
